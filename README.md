@@ -1,1 +1,1 @@
-# tryhackme
+# Just important script for pentest
